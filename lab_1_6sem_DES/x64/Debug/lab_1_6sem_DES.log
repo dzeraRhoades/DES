@@ -1,0 +1,6 @@
+﻿  CTR.cpp
+C:\Users\Влад\source\csprojects\lab_1_6sem_DES\lab_1_6sem_DES\CTR.cpp(40,25): warning C4244: '=': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\Влад\source\csprojects\lab_1_6sem_DES\lab_1_6sem_DES\CTR.cpp(28,10): warning C4101: 'c': unreferenced local variable
+C:\Users\Влад\source\csprojects\lab_1_6sem_DES\lab_1_6sem_DES\CTR.cpp(60,17): warning C4244: 'initializing': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+C:\Users\Влад\source\csprojects\lab_1_6sem_DES\lab_1_6sem_DES\CTR.cpp(68,21): warning C4244: 'initializing': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+  lab_1_6sem_DES.vcxproj -> C:\Users\Влад\source\csprojects\lab_1_6sem_DES\x64\Debug\lab_1_6sem_DES.exe
